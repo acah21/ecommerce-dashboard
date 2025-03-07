@@ -13,17 +13,16 @@ Proyek ini bertujuan untuk menganalisis data transaksi pelanggan dalam platform 
 ```
 submission
 ├───dashboard
+| ├───venv
 | ├───main_data.csv
 | └───dashboard.py
 ├───data
-| ├───data_1.csv
-| └───data_2.csv
+| ├───E-Commerce Public Dataset
 ├───notebook.ipynb
 ├───README.md
 └───requirements.txt
 └───url.txt
-
-
+```
 ## 🔍 Exploratory Data Analysis (EDA)
 Analisis data dilakukan melalui beberapa tahap berikut:
 1. **Assessing & Cleaning Data**
@@ -65,6 +64,7 @@ Dataset diambil dari e-commerce dan terdiri dari beberapa file CSV:
 - `products_dataset.csv` → Data produk
 - `sellers_dataset.csv` → Data penjual
 
+
 ## 📌 Kesimpulan & Insight
 - Mayoritas pelanggan berasal dari kota besar seperti **São Paulo (SP)** dan **Rio de Janeiro (RJ)**.
 - Sebagian besar pelanggan melakukan transaksi sekali atau dua kali dalam rentang data yang tersedia.
@@ -78,3 +78,4 @@ Proyek ini bersifat open-source. Jika ingin berkontribusi, silakan buat pull req
 ---
 
 💡 **Dibuat dengan data dan analisis berbasis Python untuk meningkatkan wawasan bisnis e-commerce!**
+
