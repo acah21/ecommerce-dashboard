@@ -23,6 +23,7 @@ submission
 └───requirements.txt
 └───url.txt
 
+
 ## 🔍 Exploratory Data Analysis (EDA)
 Analisis data dilakukan melalui beberapa tahap berikut:
 1. **Assessing & Cleaning Data**
@@ -63,7 +64,6 @@ Dataset diambil dari e-commerce dan terdiri dari beberapa file CSV:
 - `order_items_dataset.csv` → Detail produk dalam pesanan
 - `products_dataset.csv` → Data produk
 - `sellers_dataset.csv` → Data penjual
-- `geolocation_dataset.csv` → Informasi lokasi pelanggan
 
 ## 📌 Kesimpulan & Insight
 - Mayoritas pelanggan berasal dari kota besar seperti **São Paulo (SP)** dan **Rio de Janeiro (RJ)**.
