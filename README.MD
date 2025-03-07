@@ -78,4 +78,3 @@ Proyek ini bersifat open-source. Jika ingin berkontribusi, silakan buat pull req
 ---
 
 💡 **Dibuat dengan data dan analisis berbasis Python untuk meningkatkan wawasan bisnis e-commerce!**
-
