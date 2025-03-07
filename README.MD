@@ -5,7 +5,6 @@ Proyek ini bertujuan untuk menganalisis data transaksi pelanggan dalam platform 
 
 ## 🛠️ Teknologi yang Digunakan
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)
-- **Jupyter Notebook** untuk eksplorasi awal data
 - **Streamlit** untuk pembuatan dashboard interaktif
 - **Google Colab** untuk pengolahan data
 - **GitHub** untuk penyimpanan dataset
